@@ -1,0 +1,240 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sean Conlon, Brian Evans",
+      "title": "S&P 500 rises after Trump announces Vietnam trade deal; gains limited by weak jobs data: Live updates - CNBC",
+      "description": "The S&P 500 rose on Wednesday after President Donald Trump announced a U.S.-Vietnam trade deal.",
+      "url": "https://www.cnbc.com/2025/07/01/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108127623-1744037104167-gettyimages-2209011891-mms21674_ynaqnm5p.jpeg?v=1744037169&w=1920&h=1080",
+      "publishedAt": "2025-07-02T16:39:00Z",
+      "content": "The S&amp;P 500 rose on Wednesday after President Donald Trump announced a U.S.-Vietnam trade deal. However, investor optimism was limited due to a new report showing private payrolls surprisingly de… [+2989 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Trump asks Supreme Court to remove 3 Democrats on the Consumer Product Safety Commission - AP News",
+      "description": "The Trump administration is asking the Supreme Court to remove three Democratic members of the Consumer Product Safety Commission, who were fired by President Donald Trump and then reinstated by a federal judge. Trump has the power to fire independent agency …",
+      "url": "https://apnews.com/article/supreme-court-trump-product-safety-firings-5050287997fb097bbef056e7b0282217",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5836ff7/2147483647/strip/true/crop/5288x2975+0+275/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F2c%2F8706e1a49d914fb3988480743209%2Fea570af97cca4315be66e099ce0bc6a7",
+      "publishedAt": "2025-07-02T15:35:00Z",
+      "content": "WASHINGTON (AP) The Trump administration on Wednesday asked the Supreme Court to remove three Democratic members of the Consumer Product Safety Commission, who were fired by President Donald Trump an… [+2562 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft is laying off as many as 9,000 employees - The Verge",
+      "description": "Microsoft’s latest job cuts come after multiple rounds of layoffs over the past year.",
+      "url": "https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1921159214.jpg?quality=90&strip=all&crop=0%2C12.750657037022%2C100%2C74.498685925957&w=1200",
+      "publishedAt": "2025-07-02T14:48:53Z",
+      "content": "Microsofts latest job cuts come after multiple rounds of layoffs over the past year.\r\nMicrosoft confirmed that its laying off as many as 9,100 employees, or about 4 percent of its workforce, in yet a… [+3901 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Nicholas Wu, Benjamin Guggenheim, Meredith Lee Hill",
+      "title": "GOP leaders look to White House to sway Freedom Caucus on megabill - Politico",
+      "description": "The House conservatives are concerned about some $600 billion of additional deficits in the Senate-passed bill.",
+      "url": "https://www.politico.com/live-updates/2025/07/02/congress/gop-megabill-freedom-caucus-00437113",
+      "urlToImage": "https://www.politico.com/dims4/default/af8f02a/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F87%2Fde%2F1c3cb05e4c71b2f2d7dc181c91ba%2Fu-s-congress-84222.jpg",
+      "publishedAt": "2025-07-02T14:38:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Kate Middleton describes cancer journey as a 'roller coaster' - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.go.com/GMA/Culture/kate-middleton-describes-cancer-journey-roller-coaster/story?id\\\\u003d123407310",
+      "urlToImage": null,
+      "publishedAt": "2025-07-02T14:37:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kevin Breuninger",
+      "title": "Trump announces Vietnam trade deal, 20% tariff on its imports to U.S. - CNBC",
+      "description": "Vietnam, whose exports to the U.S. reportedly comprised 30% of its gross domestic product last year, is especially vulnerable to Trump's tariffs.",
+      "url": "https://www.cnbc.com/2025/07/02/trump-trade-vietnam-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108167014-1751466604714-gettyimages-2222465218-AFP_64HU6WF.jpeg?v=1751466639&w=1920&h=1080",
+      "publishedAt": "2025-07-02T14:31:10Z",
+      "content": "President Donald Trump said Wednesday that the United States has struck a trade deal with Vietnam that includes a 20% tariff on the southeast Asian country's imports to the U.S. \r\nTrump's announcemen… [+4257 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Behind the next Battlefield game: Culture clash, crunch, and colossal stakes - Ars Technica",
+      "description": "EA insiders describe stress and setbacks in a project that’s too big to fail.",
+      "url": "https://arstechnica.com/gaming/2025/07/behind-the-next-battlefield-game-culture-clash-crunch-and-colossal-stakes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Battlefield-2042-hero-1152x648-1751425139.jpg",
+      "publishedAt": "2025-07-02T14:16:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Paramount will pay $16 million in settlement with Trump over ’60 Minutes’ interview - AP News",
+      "description": "Paramount has agreed to pay $16 million to settle a lawsuit by President Donald Trump over the editing of CBS’ “60 Minutes” interview with then-Vice President Kamala Harris in October. Paramount, which owns CBS, says the money will go to Trump’s future presid…",
+      "url": "https://apnews.com/article/trump-media-harris-minutes-paramount-6415042fe910ae60b432dd8c73ef61b2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4c55c90/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3c%2Fd5%2Fc4c7e26373e8c4ac9e14e3f34fa8%2F8aaa4bcab7394249af6df681ad86857d",
+      "publishedAt": "2025-07-02T14:07:00Z",
+      "content": "NEW YORK (AP) In a case seen as a challenge to American free-speech principles, Paramount has agreed to pay $16 million to settle a lawsuit by President Donald Trump over the editing of CBS 60 Minute… [+4148 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": null,
+      "title": "'There will be no Hamastan,' Netanyahu declares as terror group reviews US ceasefire proposal - The Jerusalem Post",
+      "description": "\"There will not be a Hamas. There will not be a Hamastan. We're not going back to that. It's over,\" he said.",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-859784",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/670673",
+      "publishedAt": "2025-07-02T13:50:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Maayan Silver",
+      "title": "Wisconsin's 1849 law is not an abortion ban, the state Supreme Court rules - NPR",
+      "description": "After years of litigation following the Dobbs decision, the Wisconsin Supreme Court justices, with their liberal majority, ruled that the state's 176-year-old law does not ban abortion in the state.",
+      "url": "https://www.npr.org/2025/07/02/nx-s1-5454456/abortion-wisconsin-law-supreme-court",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+141/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F3b%2F0c0d6e314cc4a4514d7e3568ab5b%2Fap24184642514512.jpg",
+      "publishedAt": "2025-07-02T13:44:17Z",
+      "content": "MILWAUKEE Supporters of reproductive rights are celebrating a win in Wisconsin. After years of litigation over an 1849 law\r\n that conservatives argue criminalizes abortions in the state, the Wisconsi… [+3595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MassLive.com"
+      },
+      "author": "Brian Robb | brobb@masslive.com",
+      "title": "Damian Lillard buyout: Celtics among teams interested in star guard (report) - MassLive",
+      "description": "The Celtics are one of three teams interested in the former Bucks guard according to a new report.",
+      "url": "https://www.masslive.com/celtics/2025/07/damian-lillard-buyout-celtics-among-teams-interested-in-star-guard-report.html",
+      "urlToImage": "https://www.masslive.com/resizer/v2/DWFFFRZBW5C4FA7EEELT4Q7FKM.jpg?auth=0fe70c42d3b63ec076359858c9a9eb7dda625e5283568c63c7f8f0ce4815dcc6&width=1280&quality=90",
+      "publishedAt": "2025-07-02T13:43:00Z",
+      "content": "The Celtics are one of several teams that are interested in former Bucks point guard Damian Lillard, according to a new report from the Athletic. Lillard was surprisingly waived and stretched by the … [+1792 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Bryan Kohberger due in court today to plead guilty in Idaho college killings, sparing him death penalty - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.go.com/US/bryan-kohberger-due-court-today-plead-guilty-idaho/story?id\\\\u003d123373799",
+      "urlToImage": null,
+      "publishedAt": "2025-07-02T13:26:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Google details Home app ‘Member’ role with limited access, support for children - 9to5Google",
+      "description": "The Google Home app is adding a new form of access to your home, with a “Member” role now broadly...",
+      "url": "http://9to5google.com/2025/07/02/google-home-member-role-invite/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-home-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-02T13:25:00Z",
+      "content": "The Google Home app is adding a new form of access to your home, with a “Member” role now broadly available with more customization and access limits, as well as support for a child’s account.\r\nDetai… [+3361 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Faiz Siddiqui, Beth Reinhard, Julian Mark",
+      "title": "Musk vows to start a third party. Funding’s no issue, but there are others. - The Washington Post",
+      "description": "Musk’s outrage over Trump’s signature legislation fuels a pledge to rejoin the political fray, despite the wounds he’s taken and the poor electoral record of mavericks.",
+      "url": "https://www.washingtonpost.com/technology/2025/07/02/elon-musk-third-party-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LZUXIGR3KFNLE7X3M5FONGRSZY_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-07-02T13:07:12Z",
+      "content": "If money talks in American politics, Elon Musk is bellowing. Having spent $288 million last year to spur Donald Trump and his allies into office, Musk has a new message as the presidents massive tax … [+8539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "See full bio",
+      "title": "The Ultrahuman Ring Air Shamed Me Into Ditching Unhealthy Habits - CNET",
+      "description": "This $350 smart ring tracks more than you'll ever need to (and want to) know without committing to a subscription.",
+      "url": "https://www.cnet.com/tech/mobile/the-ultrahuman-ring-air-shamed-me-into-ditching-unhealthy-habits/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/bd5f8e1703d5548e80ff3417b003326b77aeb5dd/hub/2025/07/01/a36fd329-f533-41a2-9e44-4e4fff8f8aba/ultrahumanfingers-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-02T13:00:16Z",
+      "content": "This is a little embarrassing to admit as someone who reviews wearables for a living, but the Ultrahuman Ring Air is my first-ever smart ring. I've tested just about every smartwatch and fitness trac… [+12930 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Nellie Andreeva",
+      "title": "‘South Park’ Season 27 Premiere Date Pushed By Comedy Central Amid Streaming Deal Uncertainty - Deadline",
+      "description": "The Season 27 premiere of South Park, originally slated for July 9, has been moved to July 23 amid tension over the show's lucrative streaming deal.",
+      "url": "http://deadline.com/2025/07/south-park-season-27-premiere-date-change-streaming-deal-1236447487/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/SP_S27_1920x1080_July.png?w=1024",
+      "publishedAt": "2025-07-02T12:45:00Z",
+      "content": "UPDATED with Trey Parker and Matt Stone‘s statement: South Park fans who have waited for more than two years to get a new season of the hit animated comedy, will have to wait a little bit longer — th… [+3032 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Angela Haupt",
+      "title": "The 4 Words That Drive Your Doctor Up the Wall - AOL.com",
+      "description": "Primary care doctors have heard it all—yet there are four words they hope their patients don’t say.",
+      "url": "https://time.com/7297703/what-not-to-say-doctors-appointment/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/07/Time-to-Talk-Doctor-off-the-wall.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-07-02T12:41:10Z",
+      "content": "Primary care doctors have heard it allyet there are four words they hope their patients dont say.\r\nHeres what happens: During the last moments of an appointment, as the doctor is walking out the door… [+5448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "Jessica Seaman",
+      "title": "Trump administration withholds $70 million in K-12 school funding from Colorado - The Denver Post",
+      "description": "The money — which is allocated for students learning English, teacher training, afterschool and summer programs, and more — was appropriated by Congress for the 2025-26 academic year.",
+      "url": "https://www.denverpost.com/2025/07/02/education-department-withholds-school-funding-colorado/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/04/Trump_100_Days_96911.jpg?w=1024&h=683",
+      "publishedAt": "2025-07-02T12:00:05Z",
+      "content": "Colorado’s K-12 districts could lose as much as $70 million in funding for the 2025-26 academic year after the Trump administration withheld $6.8 billion in education money that school systems nation… [+4653 chars]"
+    }
+  ]
+}
