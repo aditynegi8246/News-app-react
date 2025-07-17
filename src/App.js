@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import NavBar from './components/navbar'
 import News from './components/news'
 
-import { BrowserRouter as Router,
+import { HashRouter as Router,
   Routes, Route, Link
  } from 'react-router-dom'
 
